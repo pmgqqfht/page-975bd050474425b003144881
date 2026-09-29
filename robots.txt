@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://a.geng7.cn/sitemap.xml
